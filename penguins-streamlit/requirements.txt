@@ -1,0 +1,6 @@
+matplotlib==3.9.1
+palmerpenguins==0.1.4
+pandas==2.2.2
+seaborn==0.13.2
+streamlit==1.36.0
+watchdog==4.0.1
