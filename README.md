@@ -22,6 +22,16 @@ This repo contains three python apps using the [`palmerpenguins` dataset](https:
 
 Instructions for publishing these apps can be found in the blog post titled, "**Python Apps:** Launching Python Applications from VS Code."
 
+## Bokeh
+
+![Bokeh App](bokeh_penguins.png)
+
+## Streamlit
+
+![Streamlit App](streamlit_penguins.png)
+
 ## Dash
 
 ![Dash App](dash_penguins.png)
+
+
