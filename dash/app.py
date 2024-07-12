@@ -16,7 +16,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
-            html.H1("Palmer Penguins Data Dashboard")
+            html.H1("Palmer Penguins Dashboard")
         ], width=12)
     ]),
     dbc.Row([

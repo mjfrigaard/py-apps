@@ -2,20 +2,26 @@
 
 This repo contains three python apps using the [`palmerpenguins` dataset](https://pypi.org/project/palmerpenguins/).
 
-```
+```         
 ├── README.md
-├── penguins-bokeh
+├── bokeh/
 │   ├── README.md
 │   ├── main.py
 │   └── requirements.txt
-├── penguins-dash
+├── dash/
 │   ├── README.md
 │   ├── app.py
 │   └── requirements.txt
-└── penguins-streamlit
+└── streamlit/
     ├── README.md
     ├── app.py
     └── requirements.txt
 
 3 directories, 10 files
 ```
+
+Instructions for publishing these apps can be found in the blog post titled, "**Python Apps:** Launching Python Applications from VS Code."
+
+## Dash
+
+![Dash App](dash_penguins.png)

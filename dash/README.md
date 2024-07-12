@@ -59,7 +59,7 @@ Similar to initializing a Shiny app with `shinyApp()`.
 app.layout = dbc.Container([
     dbc.Row([
         dbc.Col([
-            html.H1("Palmer Penguins Data Dashboard")
+            html.H1("Palmer Penguins Dashboard")
         ], width=12)
     ]),
     dbc.Row([
@@ -136,4 +136,10 @@ def update_scatter_plot(x_axis, y_axis):
 # Run the app
 if __name__ == '__main__':
     app.run_server(debug=True)
+```
+
+Run the application using: 
+
+``` sh
+python app.py
 ```
