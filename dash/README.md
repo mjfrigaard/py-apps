@@ -4,7 +4,7 @@ The code sets up a web application to visualize the Palmer Penguins dataset. It 
 
 ## Set up virtual environment 
 
-Set up a Python virtual environment using `venv`
+Set up a Python virtual environment using `venv`:
 
 ```sh
 python -m venv .venv
@@ -16,13 +16,11 @@ Activate the environment:
 source .venv/bin/activate
 ```
 
-Install the requirements 
+Install the requirements:
 
 ```sh
 pip install -r requirements.txt
 ```
-
-Ensure you have `streamlit` and the `palmerpenguins` dataset library installed. You can install them using `pip`.
 
 ## Importing Libraries 
 

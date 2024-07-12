@@ -22,8 +22,6 @@ Install the requirements
 pip install -r requirements.txt
 ```
 
-Ensure you have `streamlit` and the `palmerpenguins` dataset library installed. You can install them using `pip`.
-
 ## Import Libraries
 
 Load the necessary libraries: `pandas` is for data manipulation, `bokeh` is for interactive visualizations, and `palmerpenguins` to load the penguin dataset.
