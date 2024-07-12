@@ -33,5 +33,3 @@ Instructions for publishing these apps can be found in the blog post titled, "**
 ## Dash
 
 ![Dash App](dash_penguins.png)
-
-
