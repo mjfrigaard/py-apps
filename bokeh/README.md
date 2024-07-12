@@ -2,6 +2,28 @@
 
 The Python code below constructs an interactive Bokeh application with dropdowns to select x and y variables for a scatter plot and a data table displaying the dataset. 
 
+## Set up virtual environment 
+
+Set up a Python virtual environment using `venv`
+
+```sh
+python -m venv .venv
+```
+
+Activate the environment: 
+
+```sh
+source .venv/bin/activate
+```
+
+Install the requirements 
+
+```sh
+pip install -r requirements.txt
+```
+
+Ensure you have `streamlit` and the `palmerpenguins` dataset library installed. You can install them using `pip`.
+
 ## Import Libraries
 
 Load the necessary libraries: `pandas` is for data manipulation, `bokeh` is for interactive visualizations, and `palmerpenguins` to load the penguin dataset.

@@ -2,7 +2,27 @@
 
 The code sets up a web application to visualize the Palmer Penguins dataset. It uses components for layout and interactivity, similar to Shiny. Reactivity is handled by callback functions that update outputs based on user inputs. Plotting is done using Plotly, similar to `ggplot2` in R.
 
-Below is a breakdown of each part of a Python Dash app. Parallels are drawn to concepts in R, assuming familiarity with Shiny for web applications and `ggplot2` for plotting.
+## Set up virtual environment 
+
+Set up a Python virtual environment using `venv`
+
+```sh
+python -m venv .venv
+```
+
+Activate the environment: 
+
+```sh
+source .venv/bin/activate
+```
+
+Install the requirements 
+
+```sh
+pip install -r requirements.txt
+```
+
+Ensure you have `streamlit` and the `palmerpenguins` dataset library installed. You can install them using `pip`.
 
 ## Importing Libraries 
 
