@@ -20,7 +20,7 @@ This repo contains three python apps using the [`palmerpenguins` dataset](https:
 3 directories, 10 files
 ```
 
-Instructions for publishing these apps can be found in the blog post titled, "**Python Apps:** Launching Python Applications from VS Code."
+Instructions for publishing these apps can be found in the blog post titled, [Python Apps: Launching Python Applications from VS Code.](https://mjfrigaard.github.io/posts/py-apps/)
 
 ## Bokeh
 
